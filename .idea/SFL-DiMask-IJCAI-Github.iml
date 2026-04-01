@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote Python 3.10.16 (sftp://wangs@172.18.36.56:22/home/wangs/anaconda3/envs/FedML/bin/python) (8)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
